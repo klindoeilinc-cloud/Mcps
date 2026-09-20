@@ -30,6 +30,8 @@ regions:
     countries: ["Royaume-Uni", "Irlande", "Pays-Bas", "Allemagne", "Suède", "Danemark"]
   remote_global:
     countries: ["Remote-first / distribué"]
+  canada_francophone:
+    countries: ["Québec (Canada)"]
 
 work_modes_accepted: ["remote", "hybrid", "onsite"]
 
@@ -42,6 +44,7 @@ salary_benchmarks_indicative:
   uk_gbp: [60000, 110000]
   remote_international_usd: [70000, 130000]
   afrique_francophone_grands_groupes_eur_equiv: [30000, 65000]
+  quebec_cad: [95000, 150000]
 
 exclude_keywords:
   - "stagiaire"

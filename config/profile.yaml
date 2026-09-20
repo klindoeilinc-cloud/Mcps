@@ -35,6 +35,7 @@ target_regions:
   - "Afrique francophone"
   - "Europe francophone"
   - "Europe anglophone"
+  - "Canada francophone (Québec)"
 
 salary_expectation:
   currency: "EUR"
