@@ -36,6 +36,7 @@ target_regions:
   - "Europe francophone"
   - "Europe anglophone"
   - "Canada francophone (Québec)"
+  - "Afrique anglophone (Ghana, Kenya, Afrique du Sud, Nigeria)"
 
 salary_expectation:
   currency: "EUR"

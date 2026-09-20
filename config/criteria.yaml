@@ -32,6 +32,8 @@ regions:
     countries: ["Remote-first / distribué"]
   canada_francophone:
     countries: ["Québec (Canada)"]
+  afrique_anglophone:
+    countries: ["Ghana", "Kenya", "Afrique du Sud", "Nigeria"]
 
 work_modes_accepted: ["remote", "hybrid", "onsite"]
 
