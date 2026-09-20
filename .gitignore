@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-data/pipeline.csv
+# Cet environnement d'exécution est éphémère : pipeline.csv et candidatures/
+# sont volontairement suivis par git pour survivre d'une session à l'autre.
+# data/discovered/*.json reste ignoré : ce ne sont que des dumps bruts d'API,
+# facilement régénérés par `discover --save`.
 data/discovered/*.json
-candidatures/
