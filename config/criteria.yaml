@@ -8,6 +8,13 @@ target_titles:
     - "chief creative officer"
     - "head of creative"
     - "executive creative director"
+    # Intitulés réels ciblés par Noé sur son CV — souvent utilisés pour le même
+    # niveau de rôle stratégique par les entreprises tech/produit.
+    - "creative strategy"
+    - "creative transformation"
+    - "brand & creative strategy"
+    - "head of creative strategy"
+    - "vp creative"
   weak_match: # rôles proches mais potentiellement plus exécutants — à valider offre par offre
     - "art director"
     - "directeur artistique"

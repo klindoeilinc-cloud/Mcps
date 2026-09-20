@@ -1,20 +1,35 @@
-# Profil candidat — À COMPLÉTER avec tes vraies données.
-# L'agent n'invente jamais de faits absents d'ici : plus ce fichier est riche,
-# plus les CV/lettres générés seront précis et crédibles.
+# Profil candidat — rempli à partir du CV réel
+# (CV_Noe_Karamoko_Creative_Strategy_Transformation_Lead_FINAL.pdf).
+# L'agent n'invente jamais de faits absents d'ici : tiens ce fichier à jour
+# à chaque nouvelle mission, certification ou chiffre d'impact disponible.
 
-name: "" # ton nom complet
+name: "Noé Karamoko"
 age: 31
-current_title: "Directeur Artistique (exécution)"
-target_title: "Directeur Créatif / Creative Director"
-years_experience: null # à préciser
+current_title: "Directeur Artistique — SOCIAM (Groupe Seklaoui)"
+target_title: "Creative Director / Directeur Créatif"
+target_titles_aliases:
+  # Intitulés utilisés par les entreprises pour le même niveau de rôle stratégique —
+  # à surveiller autant que "Creative Director" pur.
+  - "Creative Strategy & Transformation Lead"
+  - "Brand & Creative Strategy Lead"
+  - "Creative Lead — Brand & Transformation"
+  - "Head of Creative Strategy"
+years_experience: 8 # 8+ années terrain : motion design, branding, direction artistique
 
-location_current: "" # ville / pays actuel
+location_current: "Abidjan, Côte d'Ivoire"
+willing_to_relocate: true
+mobility_note: "Mobilité régionale (Afrique francophone) déjà affichée sur le CV ; ouverte à l'Europe francophone et anglophone."
+
 languages:
   fr: natif
-  en: "" # niveau à préciser (courant, bilingue, professionnel...)
+  en: professionnel
 
-willing_to_relocate: true
+contact:
+  email: "markoleox1@gmail.com"
+  phone: "+225 07 78 15 78 45"
+
 work_modes: ["remote", "hybrid", "onsite"]
+role_type_preference: "Rôle in-house senior (Creative Strategy & Transformation) — cf. mention CV \"Open to senior in-house creative strategy & transformation roles\""
 
 target_regions:
   - "Afrique francophone"
@@ -23,20 +38,143 @@ target_regions:
 
 salary_expectation:
   currency: "EUR"
-  min_annual: null # à préciser selon le pays cible — voir config/criteria.yaml pour des ordres de grandeur
+  min_annual: null # à préciser — voir config/criteria.yaml pour des ordres de grandeur indicatifs par région
 
-portfolio_url: ""
-linkedin_url: ""
+portfolio_url: "https://behance.net/markoleo"
+linkedin_url: "https://linkedin.com/in/markoleoofficiel"
+
+executive_summary: >
+  Creative Strategy & Transformation Lead avec 8+ années d'expérience terrain en motion
+  design, branding et direction artistique. Transforme des enjeux business et de marque en
+  stratégies créatives — territoires, systèmes de marque, architecture de campagne — puis
+  dirige les équipes, agences et partenaires qui les déploient, dans des workflows structurés,
+  outillés par l'IA et pilotés par la mesure. L'expérience de production garantit des
+  stratégies réalistes, scalables et directement déployables. Ancré dans le contexte culturel
+  ivoirien et africain, intervient auprès de marques du télécom, de la fintech, de la tech et
+  du retail, aux côtés des équipes Marketing, Brand, Product et Growth.
+
+value_proposition:
+  - step: "Strategize"
+    description: "Transformer les enjeux business et marketing en stratégies créatives."
+  - step: "Conceptualize"
+    description: "Construire insights, territoires, big ideas et plateformes créatives."
+  - step: "Direct"
+    description: "Diriger équipes internes, agences, studios et partenaires."
+  - step: "Systemize"
+    description: "Structurer workflows, gouvernance, briefing et creative operations."
+  - step: "Accelerate"
+    description: "Utiliser l'IA, l'automatisation et la technologie comme leviers de capacité."
+  - step: "Measure"
+    description: "Connecter création, data, KPIs, test & learn et performance."
 
 key_strengths:
-  - "Création de la méthodologie MCPS (Diagnostiquer, Transformer, Piloter, Mesurer le système créatif)"
-  - "" # à compléter : réalisations chiffrées, campagnes, marques, tailles d'équipes managées
+  - "Créateur du framework propriétaire MCPS™ (Marko Creative Performance System) pour structurer, mesurer et améliorer la performance des organisations créatives"
+  - "8+ années d'expérience terrain : motion design, branding, direction artistique — trajectoire Production → Motion Design → Lead → Direction artistique → Creative Strategy & Operations"
+  - "Transformation d'enjeux business/marque en stratégies créatives : territoires créatifs, systèmes de marque, architecture de campagne"
+  - "Direction d'équipes internes, d'agences et de partenaires créatifs (agency management, stakeholder management)"
+  - "Structuration de creative operations : workflows, gouvernance, briefing systems, quality control, production orchestration"
+  - "Intégration de l'IA générative dans les workflows créatifs (research, ideation, prototyping, automation, knowledge management)"
+  - "Pilotage de la performance créative par la donnée : creative KPIs, test & learn, campaign analysis, Six Sigma, Theory of Constraints"
+  - "Ancrage culturel ivoirien et africain appliqué à la stratégie de marque : cultural storytelling, localisation, adaptation créative"
+
+core_expertise:
+  brand_strategy: "Brand strategy · Brand systems · Brand expression · Brand governance · Rebranding · Brand experience"
+  cultural_consumer_strategy: "Cultural insights · Consumer understanding · African market context · Cultural storytelling · Brand localization · Creative adaptation"
+  creative_strategy: "Campaign strategy · Territoires créatifs · Big ideas · Storytelling · Brand narratives · Creative foresight"
+  creative_leadership: "Direction créative · Direction d'équipes et de partenaires · Agency management · Stakeholder management"
+  creative_operations: "Workflows créatifs · Governance · Briefing systems · Production orchestration · Quality control"
+  ai_technology: "Generative AI · Creative AI workflows · Automation · Data-informed creativity"
+  creative_performance: "Creative KPIs · Test & Learn · Campaign analysis · Continuous improvement · Six Sigma · Theory of Constraints"
+
+experience:
+  - company: "SOCIAM — Groupe Seklaoui"
+    title: "Directeur Artistique"
+    scope: "Creative Leadership · Brand & Creative Transformation · Côte d'Ivoire"
+    period: "2026 — présent"
+    context: "Groupe opérant dans la distribution et le retail."
+    highlights:
+      - "Direction artistique et contribution à la construction de l'expression créative du groupe, sur des projets corporate, commerciaux et événementiels."
+      - "Développement de territoires créatifs et d'identités de marque, avec la cohérence de marque comme fil conducteur entre les supports."
+      - "Intégration de références culturelles ivoiriennes dans les systèmes créatifs — cultural strategy appliquée à la marque."
+      - "Collaboration avec les équipes Communication et Marketing ; contribution à la structuration des processus créatifs et de la production."
+  - company: "VeOne"
+    title: "Lead Motion Designer & Responsable Post-Production"
+    scope: "Côte d'Ivoire"
+    period: "2025 — 2026"
+    context: "Socle opérationnel : production, motion, storytelling, workflows, post-production, qualité, délais et ressources créatives."
+    highlights:
+      - "Progression au sein de l'agence, des fonctions Digital/Event Management et Motion Design vers la responsabilité de la production motion et post-production."
+      - "Direction et supervision de projets audiovisuels ; motion design et storytelling visuel."
+      - "Organisation des workflows de production et coordination des ressources créatives ; supervision de la post-production."
+      - "Collaboration avec équipes créatives, clients et parties prenantes ; contribution à des campagnes et dispositifs de communication multi-formats."
 
 signature_projects:
-  - name: ""
-    description: ""
-    impact: ""
+  - name: "TCL Regional Product Launch 2026"
+    context: "Lancement produit régional TCL (électronique), conduit au sein de SOCIAM."
+    challenge: "Une identité de lancement cohérente sur les supports corporate, commerciaux et événementiels, ancrée dans le contexte culturel ivoirien."
+    strategic_contribution: "Développement de l'identité du lancement et intégration de références culturelles ivoiriennes dans le système créatif."
+    creative_contribution: "Direction artistique du dispositif ; cohérence de marque sur les supports corporate, commerciaux et événementiels."
+    scope: "Brand experience régionale ; collaboration directe avec les équipes Communication & Marketing du groupe."
+    impact: "[CHIFFRE D'IMPACT À AJOUTER — ex. reach, ventes, notoriété]"
+
+client_portfolio:
+  - client: "Moov Africa / Moov Africa Togo Télécom"
+    sector: "Télécom"
+    contribution: "Branding, campagnes 360°, motion design, communication digitale"
+  - client: "Moov Money"
+    sector: "Fintech"
+    contribution: "Direction artistique, contenus animés, campagnes"
+  - client: "Advans"
+    sector: "Microfinance"
+    contribution: "Storytelling, direction artistique, communication institutionnelle"
+  - client: "CentralBill"
+    sector: "Paiement"
+    contribution: "Direction artistique, production motion"
+  - client: "ANSUT"
+    sector: "Numérique / Institutionnel"
+    contribution: "Stratégie de contenu, production audiovisuelle"
+  - client: "Cloud4Africa"
+    sector: "Cloud & Tech"
+    contribution: "Branding, communication digitale"
+  - client: "OLA Energy"
+    sector: "Énergie"
+    contribution: "Direction artistique, campagnes 360°"
+  - client: "YELAM'S"
+    sector: "Événementiel"
+    contribution: "Direction artistique, scénographie, communication d'événements"
+  - client: "TCL"
+    sector: "Électronique"
+    contribution: "Identité et direction artistique du lancement produit régional 2026 (cf. signature_projects)"
+
+education_certifications:
+  business_strategy:
+    - "Brand Management — University of London"
+    - "Brand Identity & Strategy — IE Business School"
+    - "Business Foundations — Wharton"
+  leadership:
+    - "The Creative Leader — Johns Hopkins University"
+    - "Leading Teams — University of Illinois"
+  project_operations:
+    - "Google Project Management Professional Certificate"
+    - "Six Sigma Green Belt"
+    - "Agile / Scrum"
+  data_digital:
+    - "Microsoft Power BI — Data Analyst pathway"
+    - "Google Analytics / GA4"
+
+tools_and_sectors:
+  strategy_operations_tools: "Google Analytics / GA4 · Microsoft Power BI · Agile / Scrum · Project management"
+  creative_production_tools: "Adobe — motion design, design, post-production"
+  ai_automation_tools: "Generative AI · Creative AI workflows · Workflow automation"
+  sectors_core_focus: ["Technology", "Fintech", "Telecom", "FMCG", "Retail", "Mobility"]
+  sectors_secondary: ["Energy", "Finance", "Institutional", "Events"]
 
 career_narrative: >
-  À compléter : le pitch en 3-4 phrases qui explique ta transition de DA exécutant
-  à Directeur Créatif stratège, appuyé sur MCPS et sur des preuves concrètes.
+  De la production motion et de la post-production à la direction artistique, puis à la
+  stratégie et à la transformation créative : une trajectoire construite depuis le terrain,
+  pas depuis la théorie. Cette expérience opérationnelle est le socle qui rend crédible le
+  passage à un rôle de Directeur Créatif stratège plutôt qu'exécutant — quelqu'un qui a occupé
+  chaque maillon de la chaîne (production, motion, direction artistique) avant de la piloter,
+  et qui structure aujourd'hui cette transformation via un framework propriétaire, MCPS™ (Marko
+  Creative Performance System), pensé pour diagnostiquer, transformer, piloter et mesurer la
+  performance d'un système créatif dans son ensemble.
