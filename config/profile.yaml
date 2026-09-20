@@ -1,0 +1,42 @@
+# Profil candidat — À COMPLÉTER avec tes vraies données.
+# L'agent n'invente jamais de faits absents d'ici : plus ce fichier est riche,
+# plus les CV/lettres générés seront précis et crédibles.
+
+name: "" # ton nom complet
+age: 31
+current_title: "Directeur Artistique (exécution)"
+target_title: "Directeur Créatif / Creative Director"
+years_experience: null # à préciser
+
+location_current: "" # ville / pays actuel
+languages:
+  fr: natif
+  en: "" # niveau à préciser (courant, bilingue, professionnel...)
+
+willing_to_relocate: true
+work_modes: ["remote", "hybrid", "onsite"]
+
+target_regions:
+  - "Afrique francophone"
+  - "Europe francophone"
+  - "Europe anglophone"
+
+salary_expectation:
+  currency: "EUR"
+  min_annual: null # à préciser selon le pays cible — voir config/criteria.yaml pour des ordres de grandeur
+
+portfolio_url: ""
+linkedin_url: ""
+
+key_strengths:
+  - "Création de la méthodologie MCPS (Diagnostiquer, Transformer, Piloter, Mesurer le système créatif)"
+  - "" # à compléter : réalisations chiffrées, campagnes, marques, tailles d'équipes managées
+
+signature_projects:
+  - name: ""
+    description: ""
+    impact: ""
+
+career_narrative: >
+  À compléter : le pitch en 3-4 phrases qui explique ta transition de DA exécutant
+  à Directeur Créatif stratège, appuyé sur MCPS et sur des preuves concrètes.

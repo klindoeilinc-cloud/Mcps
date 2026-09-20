@@ -1,0 +1,49 @@
+# Critères de ciblage — ajuste librement selon les retours du marché.
+
+target_titles:
+  strong_match:
+    - "creative director"
+    - "directeur créatif"
+    - "directrice créative"
+    - "chief creative officer"
+    - "head of creative"
+    - "executive creative director"
+  weak_match: # rôles proches mais potentiellement plus exécutants — à valider offre par offre
+    - "art director"
+    - "directeur artistique"
+    - "senior designer"
+    - "brand director"
+
+regions:
+  afrique_francophone:
+    countries: ["Côte d'Ivoire", "Sénégal", "Cameroun", "Maroc", "Tunisie", "Rwanda", "RDC", "Gabon", "Bénin", "Togo"]
+  europe_francophone:
+    countries: ["France", "Belgique", "Suisse", "Luxembourg"]
+  europe_anglophone:
+    countries: ["Royaume-Uni", "Irlande", "Pays-Bas", "Allemagne", "Suède", "Danemark"]
+  remote_global:
+    countries: ["Remote-first / distribué"]
+
+work_modes_accepted: ["remote", "hybrid", "onsite"]
+
+# Ordres de grandeur indicatifs (à vérifier via Glassdoor/Payscale/études de rémunération pub-créa
+# récentes) — non contractuels, à ajuster à tes propres benchmarks.
+salary_benchmarks_indicative:
+  note: "Chiffres à vérifier avant toute négociation — donnés à titre de repère uniquement."
+  france_eur: [55000, 95000]
+  suisse_chf: [110000, 160000]
+  uk_gbp: [60000, 110000]
+  remote_international_usd: [70000, 130000]
+  afrique_francophone_grands_groupes_eur_equiv: [30000, 65000]
+
+exclude_keywords:
+  - "stagiaire"
+  - "internship"
+  - "junior"
+  - "alternance"
+  - "assistant"
+
+sources:
+  remotive: true
+  remoteok: true
+  arbeitnow: true
